@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBoxToTextBox", "ListBoxToTextBox.csproj", "{0A20311C-F3E4-4180-8638-2ABB2678569D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Quiz", "C:\temp\Quiz\Quiz.vdproj", "{8C4EEB27-8A35-4447-ABE8-47CA78C2306F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A20311C-F3E4-4180-8638-2ABB2678569D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A20311C-F3E4-4180-8638-2ABB2678569D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A20311C-F3E4-4180-8638-2ABB2678569D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A20311C-F3E4-4180-8638-2ABB2678569D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C4EEB27-8A35-4447-ABE8-47CA78C2306F}.Debug|Any CPU.ActiveCfg = Debug
+		{8C4EEB27-8A35-4447-ABE8-47CA78C2306F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E1B42EF-5567-43BD-8EA2-95E9B2A7C0B4}
+	EndGlobalSection
+EndGlobal
